@@ -13,6 +13,3 @@ refer sec 3.3  of [Paper] for GRU concat pooling model(https://arxiv.org/abs/180
 ![Concat Pooling model architecture](/data/Slide2.jpg)
 
 
-still BERT model remain............
-
-
